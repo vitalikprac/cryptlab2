@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/cryptlab2/static/css/main.18bf0348.chunk.css",
-    "main.js": "/cryptlab2/static/js/main.d4055c6a.chunk.js",
+    "main.js": "/cryptlab2/static/js/main.d16bb5b2.chunk.js",
     "runtime-main.js": "/cryptlab2/static/js/runtime-main.2442b238.js",
     "static/css/2.fb7da10c.chunk.css": "/cryptlab2/static/css/2.fb7da10c.chunk.css",
     "static/js/2.38924a72.chunk.js": "/cryptlab2/static/js/2.38924a72.chunk.js",
     "index.html": "/cryptlab2/index.html",
-    "precache-manifest.55047a1731f02558592427f137570f7d.js": "/cryptlab2/precache-manifest.55047a1731f02558592427f137570f7d.js",
+    "precache-manifest.83eb81954ca39eb3ebddae0b8eae75bc.js": "/cryptlab2/precache-manifest.83eb81954ca39eb3ebddae0b8eae75bc.js",
     "service-worker.js": "/cryptlab2/service-worker.js",
     "static/js/2.38924a72.chunk.js.LICENSE.txt": "/cryptlab2/static/js/2.38924a72.chunk.js.LICENSE.txt"
   },
@@ -15,6 +15,6 @@
     "static/css/2.fb7da10c.chunk.css",
     "static/js/2.38924a72.chunk.js",
     "static/css/main.18bf0348.chunk.css",
-    "static/js/main.d4055c6a.chunk.js"
+    "static/js/main.d16bb5b2.chunk.js"
   ]
 }
