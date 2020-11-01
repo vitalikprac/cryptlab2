@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cryptlab2/static/css/main.18bf0348.chunk.css",
+    "main.js": "/cryptlab2/static/js/main.9db730a3.chunk.js",
+    "runtime-main.js": "/cryptlab2/static/js/runtime-main.2442b238.js",
+    "static/css/2.fb7da10c.chunk.css": "/cryptlab2/static/css/2.fb7da10c.chunk.css",
+    "static/js/2.38924a72.chunk.js": "/cryptlab2/static/js/2.38924a72.chunk.js",
+    "index.html": "/cryptlab2/index.html",
+    "precache-manifest.df20d0b1b5bd227841a054668451d8b6.js": "/cryptlab2/precache-manifest.df20d0b1b5bd227841a054668451d8b6.js",
+    "service-worker.js": "/cryptlab2/service-worker.js",
+    "static/js/2.38924a72.chunk.js.LICENSE.txt": "/cryptlab2/static/js/2.38924a72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2442b238.js",
+    "static/css/2.fb7da10c.chunk.css",
+    "static/js/2.38924a72.chunk.js",
+    "static/css/main.18bf0348.chunk.css",
+    "static/js/main.9db730a3.chunk.js"
+  ]
+}
